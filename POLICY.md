@@ -2,7 +2,7 @@
 
 Copyright 2011 WeTalky, LLC.
 
-The exercises are under a [Creative Commons by-nc-sa license](http://en.wikipedia.org/wiki/Creative_Commons_licenses).
+The Privacy Policy document is under a [Creative Commons by-nc-sa license](http://en.wikipedia.org/wiki/Creative_Commons_licenses).
 
 ## About This Document
 This document details how we use personal information collected through our service. By using the service, you are accepting the practices described in this privacy policy. These practices may change over time, and you can track changes on [Github](http://github.com/wetalky/privacy-policy).
